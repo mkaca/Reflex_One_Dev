@@ -1,0 +1,8 @@
+prefix=/home/rhr-demo/catkin_ws/devel
+
+Name: reflex
+Description: Description of reflex
+Version: 3.0.0
+Cflags: 
+Libs: -L/home/rhr-demo/catkin_ws/devel/lib 
+Requires: 

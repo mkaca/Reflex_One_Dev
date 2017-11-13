@@ -1,0 +1,8 @@
+prefix=/home/rhr-demo/catkin_ws/devel
+
+Name: reflex_driver
+Description: Description of reflex_driver
+Version: 2.0.0
+Cflags: 
+Libs: -L/home/rhr-demo/catkin_ws/devel/lib 
+Requires: roscpp reflex_msgs

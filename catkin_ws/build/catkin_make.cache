@@ -1,0 +1,2 @@
+dynamixel_motor/dynamixel_controllers:dynamixel_motor/dynamixel_driver:dynamixel_motor/dynamixel_motor:dynamixel_motor/dynamixel_msgs:dynamixel_motor/dynamixel_tutorials:reflex-ros-pkg/reflex:reflex-ros-pkg/reflex_driver:reflex-ros-pkg/reflex_msgs:reflex-ros-pkg/reflex_visualizer:takktile_ros
+-DCATKIN_DEVEL_PREFIX=/home/rhr-demo/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rhr-demo/catkin_ws/install -G Unix Makefiles

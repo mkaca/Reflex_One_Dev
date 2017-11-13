@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rhr-demo/catkin_ws/install/setup.sh
